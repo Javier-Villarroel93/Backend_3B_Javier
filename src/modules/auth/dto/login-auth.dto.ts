@@ -11,5 +11,5 @@ export class LoginAuthDto implements User{
     @MaxLength(25)
     @IsNotEmpty()
     password: string;  
-
+//habla gey 
 }
